@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Big events public transportation in Barcelona
+*[Chao-Ting Chang & Josep Foradada]*
 
-*[Your Cohort, Campus & Date]*
+*[Data Analytics, Barcelona & 05 July 2019]*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,35 +16,42 @@
 <a name="project-description"></a>
 
 ## Project Description
-Write a short description of your project: 3-5 sentences about what your project is about, why you chose this topic (if relevant), and what you are trying to show. 
+How is the quality of public transportation in Barcelona? Are they puntual? Are they able to handle during a big event in Barcelona?
 
 <a name="hypotheses-/-questions"></a>
 
 ## Hypotheses / Questions
-What are the questions you would like to answer with your project? Write your hypotheses here.
+1. How long one have to wait for the public transportation after a football game in camp nou?
+
+2. How is the hourly variation of the bus route trip time?
 
 <a name="dataset"></a>
 
 ## Dataset
-Where did you get your data? What dataset did you use or did you build your own datset. Provide links to the data if available.
 
-[Dataset]() 
+We based our study with the data provied by TMB and Google
+   -https://developer.tmb.cat
+   -Google Transit APIs
+   -Time spended uploading data into database. Actually is allways time.
+   -There s no a limitation because of the quality designed by Google
+
+[Dataset](https://developer.tmb.cat) 
 
 <a name="workflow"></a>
 
 ## Workflow
-Outline the workflow you used in your project. What were the steps you went through?
+
 
 <a name="organization"></a>
 
 ## Organization
-How did you organize yourself? Did you use any tools?
+
 
 <a name="links"></a>
 
 ## Links
 Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Repository](https://github.com/ChaotingChang/Project-Week-2-Barcelona)  
+[Slides](https://slides.com/changchao-ting/deck#/)  
+[Trello](https://trello.com/b/cJYX5XJF/projectweek2transporte)  
